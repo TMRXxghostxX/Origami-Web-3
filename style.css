@@ -1,0 +1,25 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 5px 5px;
+    background-color: rgb(236, 240, 12);
+}
+
+.origami {
+    border-radius: 20px;
+
+    src:url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+    width:310px;
+    font-family: Comforter;
+}
+
+.origami:hover img{
+    background-color: rgb(42, 28, 231);
+}
